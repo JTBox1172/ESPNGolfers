@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Golf Web API.props" />
+</Project>

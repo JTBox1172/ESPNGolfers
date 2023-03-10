@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLvUxLcw74Iw6EeF1r0QIO1GwAjYcZvOQgi8ewR7wW36/f+iwzr8m8WiIHgwqIoOBe5XbOKnr8FB+faz7Poe9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jtbox\\ESPN_SCRAPER\\ESPN WEB SCRAPER (GOLF)\\ESPN WEB SCRAPER (GOLF).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jtbox\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

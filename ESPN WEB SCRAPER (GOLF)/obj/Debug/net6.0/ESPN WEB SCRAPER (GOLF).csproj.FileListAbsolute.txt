@@ -1,0 +1,17 @@
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\bin\Debug\net6.0\ESPN WEB SCRAPER (GOLF).exe
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\bin\Debug\net6.0\ESPN WEB SCRAPER (GOLF).deps.json
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\bin\Debug\net6.0\ESPN WEB SCRAPER (GOLF).runtimeconfig.json
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\bin\Debug\net6.0\ESPN WEB SCRAPER (GOLF).dll
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\bin\Debug\net6.0\ESPN WEB SCRAPER (GOLF).pdb
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).csproj.AssemblyReference.cache
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).AssemblyInfoInputs.cache
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).AssemblyInfo.cs
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).csproj.CoreCompileInputs.cache
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).csproj.CopyComplete
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).dll
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\refint\ESPN WEB SCRAPER (GOLF).dll
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).pdb
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ESPN WEB SCRAPER (GOLF).genruntimeconfig.cache
+C:\Users\jtbox\ESPN_SCRAPER\ESPN WEB SCRAPER (GOLF)\obj\Debug\net6.0\ref\ESPN WEB SCRAPER (GOLF).dll
