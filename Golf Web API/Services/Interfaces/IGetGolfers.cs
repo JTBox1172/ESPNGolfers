@@ -4,7 +4,7 @@ namespace Golf_Web_API.Services.Interfaces
 {
     public interface IGetGolfers
     {
-        public Task<List<GolfPlayer>> scrapeForGolfers();
+        public Task<List<GolfPlayer>> scrapeForGolfers(int pageNumber);
 
 
     }

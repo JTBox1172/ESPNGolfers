@@ -4,15 +4,16 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
 using Golf_Web_API.Services.Interfaces;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Golf_Web_API.Services
 {
     public class GetGolfers : IGetGolfers
     {
-        public async Task<List<GolfPlayer>> scrapeForGolfers()
+        public async Task<List<GolfPlayer>> scrapeForGolfers(int pageNumber)
         {
-            string html = await GetHtml();
-            List<GolfPlayer> data = ParseHtmlUsingHtmlAgilityPack(html);
+            string htmlFromESPN = await GetHtml();
+            List<GolfPlayer> data = ParseHtmlUsingHtmlAgilityPack(htmlFromESPN, pageNumber);
             return data.ToList();
         }
 
@@ -22,10 +23,10 @@ namespace Golf_Web_API.Services
             return client.GetStringAsync("https://www.espn.com/golf/rankings");
         }
 
-        private static List<GolfPlayer> ParseHtmlUsingHtmlAgilityPack(string html)
+        private static List<GolfPlayer> ParseHtmlUsingHtmlAgilityPack(string htmlFromESPN, int pageNumber)
         {
             HtmlDocument htmlDoc = new HtmlDocument();
-            htmlDoc.LoadHtml(html);
+            htmlDoc.LoadHtml(htmlFromESPN);
 
             HtmlNodeCollection repositories =
                 htmlDoc
@@ -41,7 +42,14 @@ namespace Golf_Web_API.Services
                 int rank = Int32.Parse(repo.SelectSingleNode("td/span").InnerText);
                 player.name = name;
                 player.rank = rank;
-                data.Add(player);
+                if(rank >= (pageNumber*10) - 10)
+                {
+                    data.Add(player);
+                }
+                if(rank >= pageNumber * 10)
+                {
+                    return data;
+                }
             }
             return data;
         }

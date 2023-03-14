@@ -17,13 +17,13 @@ namespace Golf_Web_API.Controllers
         }
 
         [HttpGet]
-        public ActionResult<TaskItemsResponse<GolfPlayer>> getGolfers()
+        public ActionResult<TaskItemsResponse<GolfPlayer>> getGolfers(int pageNumber)
         {
             int iCode = 200;
             BaseResponse response = null;
             try
             {
-                Task<List<GolfPlayer>> golfers = _service.scrapeForGolfers();
+                Task<List<GolfPlayer>> golfers = _service.scrapeForGolfers(pageNumber);
                 response = new TaskItemsResponse<GolfPlayer>(golfers);
                 
             }

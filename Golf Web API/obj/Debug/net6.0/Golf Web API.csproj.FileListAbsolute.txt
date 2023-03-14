@@ -31,3 +31,36 @@ C:\Users\jtbox\ESPN_SCRAPER\Golf Web API\obj\Debug\net6.0\Golf Web API.pdb
 C:\Users\jtbox\ESPN_SCRAPER\Golf Web API\obj\Debug\net6.0\Golf Web API.genruntimeconfig.cache
 C:\Users\jtbox\ESPN_SCRAPER\Golf Web API\obj\Debug\net6.0\ref\Golf Web API.dll
 C:\Users\jtbox\ESPN_SCRAPER\Golf Web API\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\appsettings.json
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Golf Web API.exe
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Golf Web API.deps.json
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Golf Web API.runtimeconfig.json
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Golf Web API.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Golf Web API.pdb
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.csproj.AssemblyReference.cache
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.AssemblyInfoInputs.cache
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.AssemblyInfo.cs
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.csproj.CoreCompileInputs.cache
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\staticwebassets\msbuild.Golf Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\staticwebassets\msbuild.build.Golf Web API.props
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Golf Web API.props
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Golf Web API.props
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\scopedcss\bundle\Golf Web API.styles.css
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.csproj.CopyComplete
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\refint\Golf Web API.dll
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.pdb
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\Golf Web API.genruntimeconfig.cache
+C:\Users\BAE\ESPNWEBSCRAPER\ESPNGolfers\Golf Web API\obj\Debug\net6.0\ref\Golf Web API.dll

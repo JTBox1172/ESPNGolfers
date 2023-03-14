@@ -286,19 +286,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jtbox\\.nuget\\packages\\": {}
+    "C:\\Users\\BAE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jtbox\\ESPN_SCRAPER\\Golf Web API\\Golf Web API.csproj",
+      "projectUniqueName": "C:\\Users\\BAE\\ESPNWEBSCRAPER\\ESPNGolfers\\Golf Web API\\Golf Web API.csproj",
       "projectName": "Golf Web API",
-      "projectPath": "C:\\Users\\jtbox\\ESPN_SCRAPER\\Golf Web API\\Golf Web API.csproj",
-      "packagesPath": "C:\\Users\\jtbox\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jtbox\\ESPN_SCRAPER\\Golf Web API\\obj\\",
+      "projectPath": "C:\\Users\\BAE\\ESPNWEBSCRAPER\\ESPNGolfers\\Golf Web API\\Golf Web API.csproj",
+      "packagesPath": "C:\\Users\\BAE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BAE\\ESPNWEBSCRAPER\\ESPNGolfers\\Golf Web API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jtbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BAE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
